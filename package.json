@@ -15,7 +15,8 @@
   "author": "Ruchira Patil",
   "license": "ISC",
   "dependencies": {
-    "D": "^1.0.0"
+    "D": "^1.0.0",
+    "prettier": "^3.6.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
